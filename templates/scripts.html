@@ -1,0 +1,134 @@
+{% load static %}
+
+<!-- JavaScript Libraries -->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+<script src="{% static 'eshop/lib/easing/easing.min.js' %}"></script>
+<script src="{% static 'eshop/lib/owlcarousel/owl.carousel.min.js' %}"></script>
+
+<!-- Contact Javascript File -->
+<script src="{% static 'eshop/mail/jqBootstrapValidation.min.js' %}"></script>
+<script src="{% static 'eshop/mail/contact.js' %}"></script>
+
+<!-- Template Javascript -->
+<script src="{% static 'eshop/js/main.js' %}"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+
+
+<script type="application/javascript">
+    const app = new Vue({
+        el: "#vue-app",
+        delimiters: ['[[', ']]'],
+        data: {
+            cart_items: '{{cart_items.count}}',
+            cart_products: "{{cart_products}}"
+        },
+        methods: {
+            addToCart: function(prod_id) {
+                axios({
+                    method: 'POST',
+                    url: '{% url "store:add-to-cart" %}',
+                    headers: {
+                        'X-CSRFTOKEN': '{{ csrf_token }} ',
+                        'Content-Type': 'application/json'
+                    },
+                    data: {
+                        'prod_id': prod_id
+                    }
+                }).then(response => {
+                    this.cart_items = response.data['increment'] + parseInt(this.cart_items)
+                    toastr["success"]("Product Added To Cart")
+                }).catch(error => {
+                    toastr["error"]("Failed to added cart")
+                })
+            },
+            removeCart: function(cart_id) {
+                axios({
+                    method: "POST",
+                    url: '{% url "store:remove-cart" %}',
+                    headers: {
+                        'X-CSRFTOKEN': '{{ csrf_token }} ',
+                        'Content-Type': 'application/json'
+                    },
+                    data: {
+                        'cart_id': cart_id
+                    }
+                }).then(response => {
+                    toastr["success"](response.data["msg"])
+                    window.location.reload()
+                }).catch(error => {
+                    toastr["error"]("Failed to remove")
+                })
+            }
+        }
+    })
+</script>
+
+
+
+<!-- JavaScript files-->
+<!-- <script src="{% static 'vendor/jquery/jquery.min.js' %}"></script>
+      <script src="{% static 'vendor/bootstrap/js/bootstrap.bundle.min.js' %}"></script>
+      <script src="{% static 'vendor/lightbox2/js/lightbox.min.js' %}"></script>
+      <script src="{% static 'vendor/nouislider/nouislider.min.js' %}"></script>
+      <script src="{% static 'vendor/bootstrap-select/js/bootstrap-select.min.js' %}"></script>
+      <script src="{% static 'vendor/owl.carousel2/owl.carousel.min.js' %}"></script>
+      <script src="{% static 'vendor/owl.carousel2.thumbs/owl.carousel2.thumbs.min.js' %}"></script>
+      <script src="{% static 'js/front.js' %}"></script> -->
+
+<!-- <script>
+        var range = document.getElementById('range');
+        noUiSlider.create(range, {
+            range: {
+                'min': 0,
+                'max': 2000
+            },
+            step: 5,
+            start: [100, 1000],
+            margin: 300,
+            connect: true,
+            direction: 'ltr',
+            orientation: 'horizontal',
+            behaviour: 'tap-drag',
+            tooltips: true,
+            format: {
+              to: function ( value ) {
+                return '$' + value;
+              },
+              from: function ( value ) {
+                return value.replace('', '');
+              }
+            }
+        });
+        
+      </script> -->
+
+
+<script>
+    // ------------------------------------------------------- //
+    //   Inject SVG Sprite - 
+    //   see more here 
+    //   https://css-tricks.com/ajaxing-svg-sprite/
+    // ------------------------------------------------------ //
+    function injectSvgSprite(path) {
+
+        var ajax = new XMLHttpRequest();
+        ajax.open("GET", path, true);
+        ajax.send();
+        ajax.onload = function(e) {
+            var div = document.createElement("div");
+            div.className = 'd-none';
+            div.innerHTML = ajax.responseText;
+            document.body.insertBefore(div, document.body.childNodes[0]);
+        }
+    }
+    // this is set to BootstrapTemple website as you cannot 
+    // inject local SVG sprite (using only 'icons/orion-svg-sprite.svg' path)
+    // while using file:// protocol
+    // pls don't forget to change to your domain :)
+    injectSvgSprite('https://bootstraptemple.com/files/icons/orion-svg-sprite.svg');
+</script>
+<!-- FontAwesome CSS - loading as last, so it doesn't block rendering-->
+<!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"> -->

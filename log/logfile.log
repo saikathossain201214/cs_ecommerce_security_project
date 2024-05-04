@@ -1,0 +1,419 @@
+Not Found: /home/
+"GET /home/ HTTP/1.1" 404 4755
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+"GET /static/eshop/img/favicon.ico HTTP/1.1" 404 1822
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+"GET /static/eshop/img/favicon.ico HTTP/1.1" 404 1822
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+"GET /static/eshop/img/favicon.ico HTTP/1.1" 404 1822
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+"GET /static/eshop/img/favicon.ico HTTP/1.1" 404 1822
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Method Not Allowed (GET): /admin/logout/
+Method Not Allowed: /admin/logout/
+"GET /admin/logout/ HTTP/1.1" 405 0
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\sites.py", line 259, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\sites.py", line 228, in inner
+    if not self.has_permission(request):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django_otp\admin.py", line 69, in has_permission
+    return super().has_permission(request) and request.user.is_verified()
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\functional.py", line 253, in inner
+    return func(_wrapped, *args)
+AttributeError: 'User' object has no attribute 'is_verified'
+"GET /admin/ HTTP/1.1" 500 103472
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 7432
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\sites.py", line 259, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\sites.py", line 228, in inner
+    if not self.has_permission(request):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django_otp\admin.py", line 69, in has_permission
+    return super().has_permission(request) and request.user.is_verified()
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\functional.py", line 253, in inner
+    return func(_wrapped, *args)
+AttributeError: 'User' object has no attribute 'is_verified'
+"GET /admin/ HTTP/1.1" 500 103472
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+"GET /static/eshop/img/favicon.ico HTTP/1.1" 404 1822
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Service Unavailable: /admin/otp_totp/totpdevice/4/qrcode/
+"GET /admin/otp_totp/totpdevice/4/qrcode/ HTTP/1.1" 503 0
+Service Unavailable: /admin/otp_totp/totpdevice/4/qrcode/
+"GET /admin/otp_totp/totpdevice/4/qrcode/ HTTP/1.1" 503 0
+Service Unavailable: /admin/otp_totp/totpdevice/4/qrcode/
+"GET /admin/otp_totp/totpdevice/4/qrcode/ HTTP/1.1" 503 0
+Service Unavailable: /admin/otp_totp/totpdevice/4/qrcode/
+"GET /admin/otp_totp/totpdevice/4/qrcode/ HTTP/1.1" 503 0
+Service Unavailable: /admin/otp_totp/totpdevice/2/qrcode/
+"GET /admin/otp_totp/totpdevice/2/qrcode/ HTTP/1.1" 503 0
+Service Unavailable: /admin/otp_totp/totpdevice/4/qrcode/
+"GET /admin/otp_totp/totpdevice/4/qrcode/ HTTP/1.1" 503 0
+Service Unavailable: /admin/otp_totp/totpdevice/4/qrcode/
+"GET /admin/otp_totp/totpdevice/4/qrcode/ HTTP/1.1" 503 0
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/register/img/payments.png
+"GET /accounts/register/img/payments.png HTTP/1.1" 404 7501
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /img/payments.png
+"GET /img/payments.png HTTP/1.1" 404 7447
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Not Found: /accounts/login/img/payments.png
+"GET /accounts/login/img/payments.png HTTP/1.1" 404 7492
+Forbidden (Permission denied): /accounts/login/
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\django-ecommerce\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\HP\Desktop\django-ecommerce\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\HP\Desktop\django-ecommerce\venv\lib\site-packages\django_ratelimit\decorators.py", line 26, in _wrapped
+    raise (import_string(cls) if isinstance(cls, str) else cls)()
+django_ratelimit.exceptions.Ratelimited
+"POST /accounts/login/ HTTP/1.1" 403 135
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 7432
+Forbidden (Permission denied): /accounts/login/
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\django-ecommerce\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\HP\Desktop\django-ecommerce\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\HP\Desktop\django-ecommerce\venv\lib\site-packages\django_ratelimit\decorators.py", line 26, in _wrapped
+    raise (import_string(cls) if isinstance(cls, str) else cls)()
+django_ratelimit.exceptions.Ratelimited
+"POST /accounts/login/ HTTP/1.1" 403 135
+Forbidden (Permission denied): /accounts/login/
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\django-ecommerce\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\HP\Desktop\django-ecommerce\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\HP\Desktop\django-ecommerce\venv\lib\site-packages\django_ratelimit\decorators.py", line 26, in _wrapped
+    raise (import_string(cls) if isinstance(cls, str) else cls)()
+django_ratelimit.exceptions.Ratelimited
+"POST /accounts/login/ HTTP/1.1" 403 135

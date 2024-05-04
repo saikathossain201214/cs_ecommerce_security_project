@@ -1,0 +1,101 @@
+{% extends 'base.html' %} {% load static %} {% load humanize %} {% block content %}
+
+<!-- Page Header Start -->
+<div class="container-fluid bg-secondary mb-2">
+    <div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 170px">
+        <h1 class="font-weight-semi-bold text-uppercase">Orders</h1>
+        <div class="d-inline-flex">
+            <p class="m-0"><a href="{% url 'store:home' %}">Home</a></p>
+            <p class="m-0 px-2">-</p>
+            <p class="m-0">Orders</p>
+        </div>
+    </div>
+</div>
+<!-- Page Header End -->
+
+<div class="container py-5">
+
+
+    <div class="row">
+
+
+
+        <div class="col-lg-12">
+            <div class="card mb-4" id="tables">
+                <div class="card border-secondary text-center">
+                    <div class="card-header bg-primary border-0">
+                        <h4 class="font-weight-semi-bold m-0 text-white text-uppercase">Orders</h4>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <table class="table table-bordered text-center mb-0">
+                        {% if orders %}
+
+                        <thead class="bg-secondary">
+                            <tr>
+                                <th>#</th>
+                                <th>Item</th>
+                                <th>Image</th>
+                                <th>Qty.</th>
+                                <th>Ordered Date</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+
+                            {% for order in orders %}
+                            <tr>
+                                <td>{{forloop.counter}}</td>
+                                <td>{{order.product.title}}</td>
+                                <td>
+                                    {% if order.product.product_image %}
+                                    <img src="{{order.product.product_image.url}}" alt="{{order.product.product_ttile}}" style="width:50px;"> {% endif %}
+                                </td>
+                                <td>{{order.quantity}}</td>
+                                <td>{{order.ordered_date|naturaltime}}</td>
+                                <td>
+
+                                    {% if order.status == 'Pending' %} {% endif %} {% if order.status == 'Accepted' %}
+                                    <div class="bg-light border border-primary">
+                                        <div class="p-3 bg-primary" style="width:0;"></div>
+                                    </div>
+                                    {% endif %} {% if order.status == 'Packed' %}
+                                    <div class="bg-light border border-primary">
+                                        <div class="p-3 bg-primary" style="width:40%;"></div>
+                                    </div>
+                                    {% endif %} {% if order.status == 'On The Way' %}
+                                    <div class="bg-light border border-primary">
+                                        <div class="p-3 bg-primary" style="width:70%;"></div>
+                                    </div>
+                                    {% endif %} {% if order.status == 'Delivered' %}
+                                    <div class="bg-light border border-primary">
+                                        <div class="p-3 bg-primary" style="width:100%;"></div>
+                                    </div>
+                                    {% endif %} {% if order.status == 'Cancelled' %}
+                                    <div class="bg-light border border-danger">
+                                        <div class="p-3 bg-danger" style="width:100%;"></div>
+                                    </div>
+                                    {% endif %} {{order.status}}
+                                </td>
+                            </tr>
+                            {% endfor %} {% else %}
+                            <div class="text-center py-5">
+                                <h3 class="mb-3">You have no orders.</h3>
+                                <a href="{% url 'store:home' %}"><i class="fas fa-long-arrow-alt-left mr-2"> </i>Continue shopping</a>
+                            </div>
+                            {% endif %}
+
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+
+</div>
+{% endblock content %}
